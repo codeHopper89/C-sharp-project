@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C# project\Econtact\Econtact\bin\Debug\net10.0\Econtact.exe
+C:\Users\User\Documents\C# project\Econtact\Econtact\bin\Debug\net10.0\Econtact.deps.json
+C:\Users\User\Documents\C# project\Econtact\Econtact\bin\Debug\net10.0\Econtact.runtimeconfig.json
+C:\Users\User\Documents\C# project\Econtact\Econtact\bin\Debug\net10.0\Econtact.dll
+C:\Users\User\Documents\C# project\Econtact\Econtact\bin\Debug\net10.0\Econtact.pdb
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.AssemblyInfo.cs
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.dll
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\refint\Econtact.dll
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.pdb
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\Econtact.genruntimeconfig.cache
+C:\Users\User\Documents\C# project\Econtact\Econtact\obj\Debug\net10.0\ref\Econtact.dll
